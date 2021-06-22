@@ -1,3 +1,6 @@
+### Online demo:
+https://consumerism-app.netlify.app/about
+
 ### A brief summary of the app:
 
 The idea behind this app is that a user (who can either log in or use it as a guest and his data are saved in the database and temporarily in a cookie) is requested to fill in his input (= personal expenses & his desired savings goal & income), then he is provided with the results, which compare his input to the averages of other users and is provided with a summary (e.g. how much he needs to reduce his expenses in order to achieve his goal).
