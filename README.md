@@ -9,10 +9,13 @@ Ideally, we'll be comparing them to the national averages (mocked data, so far),
 ## Noteworthy aspects of the app:
 * Firebase authentication
 * Cookies
-* UseContext (colors theme, automatic users average data updating, etc)
+* React state management (colors theme, automatic users average data updating, etc)
 * User input modal (createPortal())
-* Various user input invalidations
+* Form validation
 * Responsive CSS (including side menu)
+* npm
+* React
+* Devops (netlify)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
