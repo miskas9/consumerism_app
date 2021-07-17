@@ -7,8 +7,8 @@ const About = () => {
     <>
       <h2 className={styles.Header}> Hello, I am Michael Malliotakis</h2>
       <p className={styles.Text}>
-        This is a <u>Development oriented</u> app, I use as a playground, for
-        testing things as I learn them.
+        This is a <u>Development oriented app</u> that I use as a playground,
+        for testing things as I learn them.
       </p>
       <h3 className={styles.Text}>Noteworthy aspects of the app:</h3>
       <ol className={styles.Label}>
